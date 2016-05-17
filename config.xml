@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+	
+<icon src="images/icon.png" />
+
+<name>ICDL Profile Guide: Zimbabwe</name>
+
+<description>
+A simple ICDL Profile Guide App for Zimbabwe.
+</description>
+
+<author href="http://www.csz.org.zw" email="fisher@csz.org.zw">
+Fisher G Mavaza
+</author>
+
+</widget>
